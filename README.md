@@ -1,2 +1,2 @@
 # Student-Performance
-Reposiroty for SIC AI course's capstone.
+Statistical analysis and regression modeling on student academic performance using UCI dataset (t-test, ANOVA, and multivariate regression).
